@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DiscordBot](https://discord.com/oauth2/authorize?client_id=669892920899272747&permissions=8&scope=applications.commands%20bot)
 
-- 🌱 I’m currently learning web-developement **Flask, html, css, javascript**
+- 🌱 I’m currently learning web-developement **Flask, Django, html, css, javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAlNGM](https://github.com/RAlNGM)
 
