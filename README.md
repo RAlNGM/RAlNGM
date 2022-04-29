@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAlNGM](https://github.com/RAlNGM)
 
-- 💬 Ask me about **Discord, Python, MySQL, MariaDB**
+- 💬 Ask me about **Discord, C, C++, C#, Python, MySQL, MariaDB**
 
 - 📫 How to reach me **Discord: RAINGM#1941**
 
